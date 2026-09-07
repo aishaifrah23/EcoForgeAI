@@ -17,7 +17,6 @@
 * **Primary SDG:** **SDG 12: Responsible Consumption & Production** (Target 12.4 & 12.5)
 * **Secondary SDGs:** **SDG 11** (Sustainable Cities & Campuses), **SDG 9** (Industry, Innovation & Infrastructure)
 * **Live Web App:** [https://ecoforge-ai.vercel.app](https://ecoforge-ai.vercel.app)
-* **Presentation Deck:** [Google Slides Presentation](https://docs.google.com/presentation/d/1rHoR_410dFzuigZc4Q3-l2Gkg-OgTx-9-dkam6lsRvg/edit)
 * **Technical Blueprint:** [Project Documentation](https://docs.google.com/document/d/1tiQ5738FnKrHgVPkyNAWuNtJrY6fZgWDjw94d-gu2Vc/edit)
 
 ---
